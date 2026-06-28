@@ -1,0 +1,52 @@
+CustomerID,Name,Age,Gender,City,PurchaseAmount,PurchaseDate,ProductCategory,PaymentMethod
+101,Rajesh Kumar,28,Male,Delhi,1200,2024-01-15,Electronics,Credit Card
+102,Pooja Sharma,34,Female,Mumbai,850,2024-02-10,Fashion,UPI
+103,Amit Verma,22,Male,Bangalore,450,2024-03-05,Groceries,Cash
+104,Neha Singh,29,Female,Delhi,2200,2024-03-18,Electronics,Debit Card
+105,Arjun Mehta,41,Male,Chennai,1750,2024-04-02,Furniture,Credit Card
+106,Kavita Joshi,36,Female,Pune,600,2024-04-20,Fashion,UPI
+107,Rohan Gupta,25,Male,Hyderabad,300,2024-05-11,Groceries,Cash
+108,Simran Kaur,31,Female,Delhi,950,2024-05-25,Fashion,Debit Card
+109,Vikram Rao,27,Male,Mumbai,2800,2024-06-07,Electronics,Credit Card
+110,Anita Desai,39,Female,Bangalore,1300,2024-06-15,Furniture,UPI
+111,Suresh Patel,33,Male,Ahmedabad,720,2024-07-01,Groceries,Cash
+112,Meena Iyer,26,Female,Chennai,2100,2024-07-12,Electronics,Credit Card
+113,Deepak Malhotra,45,Male,Pune,1600,2024-07-20,Furniture,Debit Card
+114,Shalini Nair,30,Female,Delhi,980,2024-08-05,Fashion,UPI
+115,Prakash Yadav,38,Male,Mumbai,450,2024-08-18,Groceries,Cash
+116,Alok Reddy,29,Male,Hyderabad,2400,2024-09-02,Electronics,Credit Card
+117,Sunita Mishra,35,Female,Bangalore,1100,2024-09-15,Furniture,Debit Card
+118,Manoj Jain,40,Male,Delhi,750,2024-09-28,Fashion,UPI
+119,Ritika Kapoor,27,Female,Pune,500,2024-10-10,Groceries,Cash
+120,Sachin Bhatia,32,Male,Chennai,1950,2024-10-22,Electronics,Credit Card
+121,Anjali Gupta,28,Female,Mumbai,870,2024-11-05,Fashion,Debit Card
+122,Ramesh Singh,44,Male,Delhi,1350,2024-11-18,Furniture,UPI
+123,Preeti Kaur,31,Female,Bangalore,620,2024-12-01,Groceries,Cash
+124,Ajay Sharma,37,Male,Pune,2100,2024-12-15,Electronics,Credit Card
+125,Divya Joshi,29,Female,Hyderabad,980,2024-12-28,Fashion,Debit Card
+126,Harish Patel,42,Male,Ahmedabad,1750,2025-01-10,Furniture,UPI
+127,Komal Verma,33,Female,Delhi,540,2025-01-22,Groceries,Cash
+128,Varun Mehta,26,Male,Mumbai,2500,2025-02-05,Electronics,Credit Card
+129,Shreya Nair,30,Female,Chennai,890,2025-02-18,Fashion,Debit Card
+130,Rajiv Malhotra,39,Male,Pune,1400,2025-03-01,Furniture,UPI
+131,Nisha Singh,27,Female,Delhi,460,2025-03-15,Groceries,Cash
+132,Sandeep Yadav,34,Male,Bangalore,2200,2025-03-28,Electronics,Credit Card
+133,Anita Kapoor,36,Female,Mumbai,1050,2025-04-10,Fashion,Debit Card
+134,Arvind Rao,41,Male,Hyderabad,1800,2025-04-22,Furniture,UPI
+135,Seema Jain,29,Female,Delhi,620,2025-05-05,Groceries,Cash
+136,Vivek Bhatia,32,Male,Pune,2000,2025-05-18,Electronics,Credit Card
+137,Rekha Gupta,28,Female,Chennai,950,2025-06-01,Fashion,Debit Card
+138,Naresh Patel,45,Male,Mumbai,1550,2025-06-15,Furniture,UPI
+139,Alka Sharma,31,Female,Bangalore,480,2025-06-28,Groceries,Cash
+140,Rohit Mehta,26,Male,Delhi,2300,2025-07-10,Electronics,Credit Card
+141,Swati Joshi,34,Female,Pune,870,2025-07-22,Fashion,Debit Card
+142,Kapil Verma,40,Male,Hyderabad,1650,2025-08-05,Furniture,UPI
+143,Neelam Singh,29,Female,Delhi,520,2025-08-18,Groceries,Cash
+144,Arun Kumar,37,Male,Mumbai,2450,2025-09-01,Electronics,Credit Card
+145,Megha Kapoor,30,Female,Chennai,920,2025-09-15,Fashion,Debit Card
+146,Santosh Rao,42,Male,Pune,1700,2025-09-28,Furniture,UPI
+147,Payal Jain,27,Female,Bangalore,560,2025-10-10,Groceries,Cash
+148,Rajeev Bhatia,35,Male,Delhi,2100,2025-10-22,Electronics,Credit Card
+149,Kirti Gupta,31,Female,Mumbai,980,2025-11-05,Fashion,Debit Card
+150,Anil Sharma,44,Male,Chennai,1450,2025-11-18,Furniture,UPI
+

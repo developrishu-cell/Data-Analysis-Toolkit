@@ -115,7 +115,7 @@ cd DataAnalysisToolkit
 Install the required libraries
 
 ```bash
-pip install pandas matplotlib seaborn openpyxl pyarrow lxml
+pip install pandas matplotlib seaborn sys
 ```
 
 ---
